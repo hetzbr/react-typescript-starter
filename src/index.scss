@@ -1,0 +1,13 @@
+@import '~@fontsource/inter/300.css';
+@import '~@fontsource/inter/400.css';
+
+@import './components/hello-world/hello-world';
+
+body,
+html {
+  font-family: Inter, sans-serif;
+  font-size: 12pt;
+  height: 100%;
+  margin: 0;
+  width: 100%;
+}
